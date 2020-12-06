@@ -1,7 +1,7 @@
 # SGMail
 Getting list of not occupied logins in Gmail
 # Start
-Script uses list of avaliable logins from freelogin.ru website. Enter number of trials (this is how many pages will be downloaded and parsed for logins) as a parameter or at the start of the programm. Each trial gets 20 logins. The final number of logins will be lower, as one login can be found twice.
+Script uses list of avaliable logins from freelogin.ru website. Enter number of trials (this is how many pages will be downloaded and parsed for logins) as a parameter or at the start of the program. Each trial gets 20 logins. The final number of logins will be lower, as one login can be found twice.
 # Menu
 Enter a number of login to get registration link.
 # Sorting (Flags)
@@ -18,4 +18,4 @@ List is always sorted alphabetically.
 # requirements.txt
 Beautiful soup is required
 # .exe
-There is a compiled version of this programm.
+There is a compiled version of this program.
